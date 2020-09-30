@@ -1,0 +1,10 @@
+server:
+  port: 0
+greet:
+  greeting: "Salutare"
+  greetings:
+    "EN": "Hello"
+    "DE": "Hallo"
+    "RO": "Salut"
+    "RU": "Privet"
+
